@@ -1,9 +1,5 @@
-/* IRONS2IMPACT SITE SETTINGS
-   To enable inquiry emails: replace the blank CONTACT_EMAIL below with an
-   address you control (example: hello@yourdomain.com).
-   The website opens the visitor's email app with a pre-filled inquiry;
-   the visitor must review and send it. Nothing is sent automatically. */
+/* Inquiry emails open in the visitor's mail app for review and sending. */
 window.IRONS2IMPACT_CONFIG = {
-  CONTACT_EMAIL: '',
+  CONTACT_EMAIL: 'davidirons850@gmail.com',
   SITE_NAME: 'Irons2Impact Sports Management'
 };
